@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1597302553 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1597303275 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime\test\test_prime.c
+	"unity.h"
+	"Prime.h"
+
+1597246801 c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime\unity\unity.h
+	"unity_internals.h"
+
+1597246801 c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597302808 c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime\inc\prime.h
+	<stdbool.h>
+
+1597246801 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597303961 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime\src\prime.c
+	"Prime.h"
+
+1597258960 source:c:\users\abc\desktop\prime\src\prime.c
+	"Prime.h"
+
+1597257808 c:\users\abc\desktop\prime\inc\prime.h
+	<stdbool.h>
+
+1597258274 source:c:\users\abc\desktop\prime\test\test_prime.c
+	"unity.h"
+	"Prime.h"
+
+1597201800 c:\users\abc\desktop\prime\unity\unity.h
+	"unity_internals.h"
+
+1597201800 c:\users\abc\desktop\prime\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597201800 source:c:\users\abc\desktop\prime\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597304316 source:c:\users\abc\desktop\prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_Prime.h"
+
+1597258306 c:\users\abc\desktop\prime\test\test_prime.h
+
+1597306368 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime-20200813t080521z-001\prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_Prime.h"
+
+1597306369 c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime-20200813t080521z-001\prime\test\test_prime.h
+
+1597306369 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime-20200813t080521z-001\prime\src\prime.c
+	"Prime.h"
+
+1597306369 c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime-20200813t080521z-001\prime\inc\prime.h
+	<stdbool.h>
+
+1597306369 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime-20200813t080521z-001\prime\test\test_prime.c
+	"unity.h"
+	"Prime.h"
+
+1597306369 c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime-20200813t080521z-001\prime\unity\unity.h
+	"unity_internals.h"
+
+1597306369 c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime-20200813t080521z-001\prime\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597306369 source:c:\users\user\desktop\ltts doc and tasks\ltts training\c\prime-20200813t080521z-001\prime\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
